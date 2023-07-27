@@ -13,6 +13,7 @@ body {
   font-family: 'Quicksand', sans-serif;
   margin: 0;
   padding: 0;
+  background-color: rgb(132, 234, 255);
 }
 
 h2, h3 {
@@ -30,7 +31,7 @@ main {
 }
 
 .jumbotron {
-  background: url("../img/IMG_20210605_160201.jpg");
+  background: url("../img/hqdefault.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -117,7 +118,7 @@ ul li {
 
 .logo {
   display: inline-block;
-  width: 65%;
+  width: 25%;
   margin-top: 15px;
   margin-left: 20px;
 }
